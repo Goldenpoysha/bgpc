@@ -38,7 +38,7 @@ Bangladesh Golden Poysha Currency (BGPC) is a BEP-20 utility token deployed on B
 
 ## Security & Transparency
 
-The smart contract was deployed using [Bitbond Token Tool](https://tokentool.bitbond.com), a no-code token deployment platform by Bitbond GmbH (Berlin, Germany). The underlying contract template (`BitbondTokenToolAdvancedToken`) is CertiK-audited.
+The smart contract was deployed using [Bitbond Token Tool](https://tokentool.bitbond.com), a no-code token deployment platform operated by Bitbond GmbH (Berlin, Germany). The underlying contract template (`BitbondTokenToolAdvancedToken`) is CertiK-audited.
 
 Multiple independent security scanners have analyzed the BGPC contract:
 
@@ -99,18 +99,30 @@ Golden Poysha makes the following permanent public commitments regarding contrac
 This repository will contain:
 
 - 📄 `README.md` — this file
-- ⚖️ `LICENSE` — MIT license for project documentation, branding, and supporting code (excludes contract code)
+- ⚖️ `LICENSE` — Copyright notice, IP ownership delegation, disclaimer
 - 📁 `audits/` — Copies of independent security scanner reports *(planned)*
 - 📁 `docs/` — Whitepaper, tokenomics docs *(planned)*
 - 📁 `assets/` — Brand assets, logos *(planned)*
 
 Note: The smart contract source code is **not** in this repository. The contract code is the intellectual property of Bitbond GmbH (the template publisher), not Golden Poysha. The source is publicly visible and verified on BscScan at the contract address above.
 
-## License
+## License & Intellectual Property
 
-The smart contract source code is **not licensed by Golden Poysha** — it is the IP of Bitbond GmbH. Source is publicly visible via BscScan verification.
+This repository contains two categories of materials with different ownership:
 
-Project documentation, branding, and supporting code in this repository (excluding any contract code) are licensed under the **MIT License** — see [LICENSE](./LICENSE) file.
+### Project Materials — © Golden Poysha · All Rights Reserved
+
+All documentation, branding, logos, and informational materials in this repository are © 2026 Golden Poysha. **All rights reserved.** No reproduction, distribution, or commercial use without prior written permission. For permission requests: [info@goldenpoysha.com](mailto:info@goldenpoysha.com)
+
+### Smart Contract Code — © Bitbond GmbH
+
+The BGPC smart contract was deployed using [Bitbond Token Tool](https://tokentool.bitbond.com). The contract template (`BitbondTokenToolAdvancedToken`) is the intellectual property of **Bitbond GmbH** (Berlin, Germany), not Golden Poysha.
+
+**For any use, modification, or licensing questions about the smart contract code, please consult Bitbond GmbH directly** at [tokentool.bitbond.com](https://tokentool.bitbond.com) or contact [support@bitbond.com](mailto:support@bitbond.com).
+
+**Golden Poysha is NOT responsible** for the intellectual property terms, licensing conditions, or any legal matters relating to the contract template code provided by Bitbond GmbH.
+
+Full license notice: see [LICENSE](./LICENSE) file.
 
 ## Disclaimer
 
