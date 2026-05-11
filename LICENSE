@@ -1,42 +1,94 @@
-MIT License
-
-Copyright (c) 2026 Golden Poysha / Bangladesh Golden Poysha Currency (BGPC)
-
-==============================================================================
-SCOPE OF THIS LICENSE
-==============================================================================
-
-This license applies to:
-  - Project documentation in this repository (README, guides, whitepaper)
-  - Branding assets created by Golden Poysha (logos, brand materials)
-  - Supporting code authored by Golden Poysha for project infrastructure
-    (e.g. website code, airdrop submission system, admin tools)
-
-This license does NOT apply to:
-  - The BGPC smart contract source code, which is the intellectual property
-    of Bitbond GmbH (publisher of the Bitbond Token Tool template
-    "BitbondTokenToolAdvancedToken" used for deployment).
-    Refer to https://tokentool.bitbond.com for terms relating to the
-    contract template.
+Bangladesh Golden Poysha Currency (BGPC) — License Notice
+Copyright © 2026 Golden Poysha. All rights reserved.
 
 ==============================================================================
-LICENSE TEXT
+PROJECT MATERIALS
 ==============================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of the materials covered by this license (the "Materials"), to deal in the
-Materials without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Materials, and to permit persons to whom the Materials are
-furnished to do so, subject to the following conditions:
+All project documentation, branding, and informational materials in this
+repository — including but not limited to README files, project descriptions,
+logos, brand assets, and supporting code authored by Golden Poysha — are
+© 2026 Golden Poysha. All rights reserved.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Materials.
+No part of these materials may be reproduced, distributed, modified, or
+used commercially without prior written permission from Golden Poysha.
 
-THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER
-DEALINGS IN THE MATERIALS.
+For permission to reuse project materials:
+    Email: info@goldenpoysha.com
+
+
+==============================================================================
+SMART CONTRACT CODE — SEPARATE OWNERSHIP
+==============================================================================
+
+The BGPC smart contract was deployed using Bitbond Token Tool, a no-code
+token deployment platform operated by Bitbond GmbH (Berlin, Germany).
+
+    Bitbond Token Tool:  https://tokentool.bitbond.com
+    Operator:            Bitbond GmbH, Berlin, Germany
+
+The underlying contract template "BitbondTokenToolAdvancedToken" is the
+intellectual property of Bitbond GmbH, NOT of Golden Poysha.
+
+If you wish to use, modify, fork, or reference the smart contract code:
+
+    1. You must consult Bitbond GmbH directly for licensing terms
+    2. Visit https://tokentool.bitbond.com for their terms of service
+    3. Contact Bitbond support: support@bitbond.com
+
+Golden Poysha holds no licensing authority over the contract template
+and CANNOT grant rights to the contract source code.
+
+GOLDEN POYSHA IS NOT RESPONSIBLE for:
+    - The intellectual property terms of the contract template
+    - Licensing conditions imposed by Bitbond GmbH
+    - Legal matters relating to use, modification, or distribution of the
+      contract template code by third parties
+    - Any disputes arising from third-party use of Bitbond's contract template
+
+
+==============================================================================
+DISCLAIMER OF WARRANTY
+==============================================================================
+
+THESE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+GOLDEN POYSHA MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING:
+    - The fitness of these materials for any particular purpose
+    - The accuracy or completeness of information presented
+    - The outcomes of any decisions made based on this material
+    - The performance, value, or future state of the BGPC token
+
+USE OF THESE MATERIALS IS AT YOUR OWN RISK.
+
+ALL CRYPTOCURRENCY INVESTMENTS CARRY SIGNIFICANT RISK INCLUDING TOTAL LOSS
+OF CAPITAL. INFORMATION IN THIS REPOSITORY DOES NOT CONSTITUTE FINANCIAL,
+LEGAL, OR INVESTMENT ADVICE. ALWAYS CONDUCT YOUR OWN RESEARCH AND CONSULT
+QUALIFIED PROFESSIONALS BEFORE MAKING INVESTMENT DECISIONS.
+
+
+==============================================================================
+CONTACT
+==============================================================================
+
+For permission to reuse project materials, brand assets, or documentation:
+    Email:    info@goldenpoysha.com
+    Website:  https://goldenpoysha.com
+
+For contract template licensing or related IP matters:
+    Operator: Bitbond GmbH
+    Platform: https://tokentool.bitbond.com
+    Support:  support@bitbond.com
+
+
+==============================================================================
+SUMMARY
+==============================================================================
+
+Project Materials  →  © Golden Poysha · All Rights Reserved
+Contract Code      →  © Bitbond GmbH · Consult Bitbond for terms
+Disclaimer         →  No warranties · Use at your own risk
+
+Last updated: May 2026
