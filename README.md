@@ -6,6 +6,6 @@ BEP-20 token on BNB Chain.
 Contract: 0x42B49e5A5F594587042f499a55EAace09246e7B7
 Network: BNB Smart Chain (BSC)
 Website: https://goldenpoysha.com
-Telegram : t.me/goldenpoyshaBGPC
-Twiteer: @GPoysha
-Faceboo: https://www.facebook.com/goldenpoysha/
+Telegram : https://t.me/goldenpoyshaBGPC
+Twiteer: https://x.com/gpoysha
+Faceboo: https://www.facebook.com/Gpoysha
