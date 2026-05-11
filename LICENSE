@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2026 Golden Poysha / Bangladesh Golden Poysha Currency (BGPC)
+
+==============================================================================
+SCOPE OF THIS LICENSE
+==============================================================================
+
+This license applies to:
+  - Project documentation in this repository (README, guides, whitepaper)
+  - Branding assets created by Golden Poysha (logos, brand materials)
+  - Supporting code authored by Golden Poysha for project infrastructure
+    (e.g. website code, airdrop submission system, admin tools)
+
+This license does NOT apply to:
+  - The BGPC smart contract source code, which is the intellectual property
+    of Bitbond GmbH (publisher of the Bitbond Token Tool template
+    "BitbondTokenToolAdvancedToken" used for deployment).
+    Refer to https://tokentool.bitbond.com for terms relating to the
+    contract template.
+
+==============================================================================
+LICENSE TEXT
+==============================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the materials covered by this license (the "Materials"), to deal in the
+Materials without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Materials, and to permit persons to whom the Materials are
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Materials.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER
+DEALINGS IN THE MATERIALS.
